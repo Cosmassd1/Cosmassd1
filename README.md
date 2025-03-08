@@ -33,7 +33,7 @@ But go for it! Because if you solve it the "smart" way, you never have to revisi
 🛠️ Tech Stack
 - Front-End: React, JavaScript, HTML, CSS,Bootstrap
 - Back-End: Laravel, PHP, MySQL
-- Mobile: Flutter, Dart
+  
 
-Tools: VS Code, Git, GitHub, Postman, MySQL Workbench.
+Tools: VS Code, Git, GitHub, Postman, APIdog, MySQL Workbench.
 
