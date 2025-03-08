@@ -11,8 +11,8 @@ I thrive in fast-paced tech environments and love adapting to new challenges.
 - Continuous learning and keeping up with emerging trends in tech  
 
  I’m currently learning  
-- Flutter for mobile and web  
-- to be next DevOps (CI/CD, Docker, Kubernetes)  
+- Advance am skills and knowledge in react library
+- php laravel framework and REST APIs
 
  I’m looking to collaborate on  
 - Open-source projects  
